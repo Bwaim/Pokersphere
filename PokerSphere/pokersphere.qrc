@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Resources/Earth.gif</file>
+        <file>Resources/clock.png</file>
+        <file>Resources/cancel.gif</file>
+        <file>Resources/jaune.gif</file>
+        <file>Resources/rouge.gif</file>
+        <file>Resources/vert.gif</file>
+        <file>Resources/flechedown.gif</file>
+        <file>Resources/flecheup.gif</file>
+        <file>Resources/pokerSphere.gif</file>
+        <file>Resources/sphere.ico</file>
+        <file>Resources/left_arrow_green.gif</file>
+        <file>Resources/right_arrow_orange.gif</file>
+    </qresource>
+</RCC>

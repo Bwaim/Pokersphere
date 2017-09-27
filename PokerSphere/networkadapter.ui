@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NetworkAdapterClass</class>
+ <widget class="QProgressBar" name="NetworkAdapterClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>35</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Retrieving informations</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="pokersphere.qrc">
+    <normaloff>:/img/Resources/sphere.ico</normaloff>:/img/Resources/sphere.ico</iconset>
+  </property>
+  <property name="value">
+   <number>0</number>
+  </property>
+  <property name="textVisible">
+   <bool>false</bool>
+  </property>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="pokersphere.qrc"/>
+ </resources>
+ <connections/>
+</ui>
